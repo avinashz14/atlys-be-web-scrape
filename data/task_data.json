@@ -1,0 +1,69 @@
+[
+    {
+        "id": "769e3b7b-341e-4785-93f6-a91f2eafb073",
+        "requester_id": null,
+        "title": null,
+        "url": "https://dentalstall.com/shop",
+        "proxy": "",
+        "page": 1,
+        "limit": 1,
+        "meta_data": {
+            "total_scrapped_product": 24,
+            "total_new_product": 24,
+            "total_updated_product": 0
+        },
+        "status": "COMPLETE"
+    },
+    {
+        "id": "c58375bc-f12e-4d0e-92ae-f262c1da91f0",
+        "requester_id": null,
+        "title": null,
+        "url": "https://dentalstall.com/shop",
+        "proxy": "",
+        "page": 1,
+        "limit": 1,
+        "meta_data": {},
+        "status": "INITIATED"
+    },
+    {
+        "id": "f8eb885d-7aec-43ca-98d1-11fd8a8ff1c0",
+        "requester_id": null,
+        "title": null,
+        "url": "https://dentalstall.com/shop",
+        "proxy": "",
+        "page": 1,
+        "limit": 1,
+        "meta_data": {
+            "total_scrapped_product": 24,
+            "total_new_product": 0,
+            "total_updated_product": 2
+        },
+        "status": "COMPLETE"
+    },
+    {
+        "id": "fdbf2720-0035-4aa5-bf3c-82711d91dd8f",
+        "requester_id": null,
+        "title": null,
+        "url": "https://dentalstall.com/shop",
+        "proxy": "",
+        "page": 1,
+        "limit": 1,
+        "meta_data": {},
+        "status": "INITIATED"
+    },
+    {
+        "id": "4d21339b-d0ea-4760-b64a-1feb7b2e693c",
+        "requester_id": null,
+        "title": null,
+        "url": "https://dentalstall.com/shop",
+        "proxy": "",
+        "page": 1,
+        "limit": 1,
+        "meta_data": {
+            "total_scrapped_product": 24,
+            "total_new_product": 0,
+            "total_updated_product": 0
+        },
+        "status": "COMPLETE"
+    }
+]

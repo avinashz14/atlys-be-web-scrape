@@ -1,0 +1,8 @@
+
+–python:S5890"RReplace the type hint "str" with "Optional[str]" or don't assign "None" to "title"(βρ8Άÿ—‹2J$74d28731-6efd-4bb5-80d9-f4aed64250d9
+python:S5890"VReplace the type hint "str" with "Optional[str]" or don't assign "None" to "image_url"(³ΟϊG8ΧΓ—‹2J$20e59385-c909-443f-8a2b-e5ea9976f398
+©python:S5890"_Replace the type hint "float" with "Optional[float]" or don't assign "None" to "original_price"(‰ÒΩ“ÿÿÿÿÿ8γι—‹2J$a4726797-01ca-4731-bd8e-3d968ca22513
+£python:S5890"YReplace the type hint "int" with "Optional[int]" or don't assign "None" to "requester_id"(μ«Λΰϊÿÿÿÿ8Ό¤—‹2J$57fec468-b877-43c3-b77a-6f4f0a34414d
+–python:S5890"RReplace the type hint "str" with "Optional[str]" or don't assign "None" to "title"(βρ8β—‹2J$5d059947-a815-4114-b1af-cef4561dcad8
+python:S5890"PReplace the type hint "str" with "Optional[str]" or don't assign "None" to "url"(Σ‡Ξλωÿÿÿÿ8¦µ—‹2J$fba580f5-e367-43c2-9a92-bd2e095e59ae
+—python:S5890"RReplace the type hint "str" with "Optional[str]" or don't assign "None" to "proxy"(χ‘‚»8°ΰ‹2J$3196aecf-bdbc-44fe-bc05-c14b72ceec88
