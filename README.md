@@ -18,7 +18,7 @@ Get Add Scrape Request:
 --header 'Authorization: 0964-4204-atlys-be-4bf8b973-8b91-05d47ae57f8e' \
 --header 'Content-Type: application/json' \
 --data '{
-	"url":"https://dentalstall.com/shop",
+	"url":"https://dental*****.com/shop",
 	"proxy":"",
 	"page":1, 
 	"limit": 1
